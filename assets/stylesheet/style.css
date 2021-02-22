@@ -208,12 +208,18 @@ a {
 	font-size: 1.2rem;
 	color: #ffffff;
 }
+.top-row span:hover {
+	color: #35cadd;
+} 
 .head-navbar li{
 	margin-left: 2rem;
 }
 .head-navbar i {
 	font-size: 1.2rem;
 	color: #ffffff;
+}
+.head-navbar i:hover {
+	color: #35cadd;
 }
 .contact-head {
 	background-color: #012D5B;
@@ -231,6 +237,9 @@ a {
 	font-weight: 700;
 	margin-left: 1.2rem;
 	text-transform: uppercase;
+}
+.nav-header a:hover {
+	color: #FD6C71;
 }
 .nav-header .btn {
 	background-color: #FD6C71;
